@@ -16,4 +16,4 @@ GreenShift AI is deployed as a Streamlit web application with 7 interactive page
 Tech Stack
 The project is built entirely in Python 3.12 using Scikit-learn for the ML pipeline, Streamlit for the web application, Plotly for interactive visualizations, Pandas and NumPy for data processing, Imbalanced-learn for SMOTE resampling, Statsmodels for VIF analysis, Matplotlib and Seaborn for EDA plots, and Joblib for model saving and loading.
 How to Run
-Clone the repository, install the dependencies using pip install -r requirements.txt, and launch the app using streamlit run app.py. The application will open automatically at http://localhost:8501 in your browser.
+Clone the repository, install the dependencies using pip install -r requirements.txt, and launch the app using streamlit run app.py. 
